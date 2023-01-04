@@ -8,8 +8,7 @@ public class Main {
         Book two = new Book("Two", anaManning, 2012);
         Book three = new Book("Three", donnaCain, 2020);
 
-
         System.out.println(two.toString());
-    }
 
+    }
 }
