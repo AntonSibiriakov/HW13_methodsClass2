@@ -17,13 +17,10 @@ public class Book {
     public String getAuthorBook() {
         String authorStr = author.getAuthor();
         return authorStr;
-
     }
-
     public int getYear() {
         return year;
     }
-
 
     public void setYear(int year) {
 
